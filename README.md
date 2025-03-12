@@ -2,8 +2,8 @@
 
 A simple, elegant work reminder application with a soothing lavender and sage color theme. Set up customized reminders for your work schedule with easy-to-use controls.
 
-![Work Reminder App Screenshot](screenshot.png)
-
+## Preview
+[Preview](https://simondoku.github.io/Work-Reminder-App)
 ## Features
 
 - 📅 Set reminders for specific workdays
@@ -13,10 +13,6 @@ A simple, elegant work reminder application with a soothing lavender and sage co
 - 🎨 Beautiful lavender and sage color theme
 - 💾 Automatic saving of your preferences
 - 📱 Responsive design that works on mobile and desktop
-
-## Live Demo
-
-Check out the live demo [here](#) (replace with your deployment URL).
 
 ## Getting Started
 
