@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Work-Reminder-App/static/css/main.8d4022c3.chunk.css",
+    "main.js": "/Work-Reminder-App/static/js/main.61024d39.chunk.js",
+    "main.js.map": "/Work-Reminder-App/static/js/main.61024d39.chunk.js.map",
+    "runtime-main.js": "/Work-Reminder-App/static/js/runtime-main.378369fd.js",
+    "runtime-main.js.map": "/Work-Reminder-App/static/js/runtime-main.378369fd.js.map",
+    "static/js/2.fe5d7315.chunk.js": "/Work-Reminder-App/static/js/2.fe5d7315.chunk.js",
+    "static/js/2.fe5d7315.chunk.js.map": "/Work-Reminder-App/static/js/2.fe5d7315.chunk.js.map",
+    "index.html": "/Work-Reminder-App/index.html",
+    "precache-manifest.d45e80c2e9a8501de00ff7134f736b44.js": "/Work-Reminder-App/precache-manifest.d45e80c2e9a8501de00ff7134f736b44.js",
+    "service-worker.js": "/Work-Reminder-App/service-worker.js",
+    "static/css/main.8d4022c3.chunk.css.map": "/Work-Reminder-App/static/css/main.8d4022c3.chunk.css.map",
+    "static/js/2.fe5d7315.chunk.js.LICENSE.txt": "/Work-Reminder-App/static/js/2.fe5d7315.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.378369fd.js",
+    "static/js/2.fe5d7315.chunk.js",
+    "static/css/main.8d4022c3.chunk.css",
+    "static/js/main.61024d39.chunk.js"
+  ]
+}
