@@ -97,4 +97,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 Simon Doku - [simondoku538@gmail.com](mailto:simondoku9@gmail.com)
 
-Project Link: [https://github.com/simondoku/work-reminder-app](https://github.com/simondoku/work-reminder-app) (replace with your repository URL)
+Project Link: [https://github.com/simondoku/Work-Reminder-App](https://github.com/simondoku/Work-Reminder-App) (replace with your repository URL)
